@@ -1,0 +1,2 @@
+# Retail---Visual-Quality-Control-System-Computer-Vision-
+The Visual Quality Control System addresses the challenge of manual inspection processes in retail operations, which are time-consuming, inconsistent, and prone to human error. By implementing automated visual inspection, retailers can improve product quality, reduce waste, and enhance customer satisfaction while optimizing operational efficiency.
